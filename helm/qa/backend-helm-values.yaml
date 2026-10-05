@@ -1,0 +1,3 @@
+# Values for backend-helm in the "qa" environment of the "helm" deployment.
+# Applied on top of deploy-templates/values.yaml when "Values Override" is enabled on deploy.
+replicaCount: 2
